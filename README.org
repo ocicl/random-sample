@@ -1,0 +1,9 @@
+* random-sample
+
+Take a random sample from a sequence
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/ruricolist/random-sample.git |
+| commit  | 2a9ebc4                                             |
+| systems | random-sample                                       |
+|---------+-----------------------------------------------------|
